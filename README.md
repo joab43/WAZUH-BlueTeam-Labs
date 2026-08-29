@@ -1,6 +1,6 @@
-# Wazuh Deployment Guide
+# Guía de Despliegue de Wazuh
 
-Guía práctica para la instalación, configuración y despliegue de **Wazuh**, desde una instalación rápida utilizando el asistente oficial hasta despliegues más avanzados e integraciones orientadas a entornos de Blue Team.
+Esta es una guía práctica para la instalación, configuración y despliegue de **Wazuh**, desde una instalación rápida utilizando el asistente oficial hasta despliegues más avanzados e integraciones orientadas a entornos de Blue Team.
 
 El objetivo de este repositorio es documentar el proceso **paso a paso**, explicando no solamente los comandos utilizados, sino también la función de los principales componentes involucrados en una infraestructura Wazuh.
 
